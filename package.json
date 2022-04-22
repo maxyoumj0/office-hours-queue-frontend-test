@@ -1,0 +1,22 @@
+{
+  "name": "office-hours-queue-frontend-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxyoumj0/office-hours-queue-frontend-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxyoumj0/office-hours-queue-frontend-test/issues"
+  },
+  "homepage": "https://github.com/maxyoumj0/office-hours-queue-frontend-test#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
